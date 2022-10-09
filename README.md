@@ -107,8 +107,8 @@
 
 ## 📊 Github stats & Others
 <details><summary> Github Stats </summary>
- <img alt="My github Stats" src="https://github-readme-stats.vercel.app/api?username=brayanb1701&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="200px" align="center" />
-<img alt="My Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanb1701&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="200px" align="center" />
+<div align="center"><img alt="My github Stats" src="https://github-readme-stats.vercel.app/api?username=brayanb1701&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="200px" align="center" /></div>
+<div align="center"><img alt="My Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanb1701&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="200px" align="center" /></div>
 </details>  
 
 <br/>  
