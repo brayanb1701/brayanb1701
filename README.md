@@ -19,13 +19,12 @@
 
 
 ### <div align="center">I'm Brayan Barajas, a computer engineering and physics student, also a full-stack/backend developer 👨‍💻. My major interests are computational physics, data science and quantum computation.</div>  
-  
 
 - 🌱 I’m currently learning Quantum Computation.  
   
+- 💻 I love computer science and learning about anything related to it.
 
 - ❓ Ask me about anything related to python development, and data science with python.  
-  
 
 - 🐱 Cat lover  
   
